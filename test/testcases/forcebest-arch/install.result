@@ -1,0 +1,2 @@
+install libstoragemgmt-1.0-1.i686@repo1
+upgrade libstoragemgmt-1.0-1.x86_64@system libstoragemgmt-2.0-1.x86_64@repo1

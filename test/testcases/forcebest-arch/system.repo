@@ -1,0 +1,19 @@
+=Ver: 3.0
+=Pkg: libstoragemgmt 1.0 1 x86_64
+=Req: python3-libstoragemgmt
++Prv:
+libstoragemgmt = 1.0-1
+libstoragemgmt(x86-64) = 1.0-1
+-Prv:
+=Pkg: python3-libstoragemgmt 1.0 1 noarch
++Req:
+libstoragemgmt = 1.0-1
+python3-libstoragemgmt-clibs
+-Req:
+=Prv: python3-libstoragemgmt = 1.0-1
+=Pkg: python3-libstoragemgmt-clibs 1.0 1 x86_64
+=Req: libstoragemgmt = 1.0-1
++Prv:
+python3-libstoragemgmt-clibs = 1.0-1
+python3-libstoragemgmt-clibs(x86-64) = 1.0-1
+-Prv:
