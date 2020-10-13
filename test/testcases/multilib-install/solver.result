@@ -1,0 +1,4 @@
+install foo-1.0-1.x86_64@install-remove-multilib
+install foo-2.0-1.i686@install-remove-multilib
+install python3-foo-2.0-1.x86_64@install-remove-multilib
+install python3-foo-clibs-1.0-1.x86_64@install-remove-multilib
